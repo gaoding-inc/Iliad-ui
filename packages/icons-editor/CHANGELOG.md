@@ -3,6 +3,47 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.15.0](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.14.0...@iliad-ui/icons-editor@0.15.0) (2022-12-09)
+
+### Features
+
+-   icons 更新 ([13a9582](https://github.com/gaoding-inc/iliad-ui/commit/13a9582a50643a90acd2845ff036ba773c941143))
+
+# [0.14.0](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.13.0...@iliad-ui/icons-editor@0.14.0) (2022-12-09)
+
+### Features
+
+-   icons update ([de8cb8a](https://github.com/gaoding-inc/iliad-ui/commit/de8cb8abae5238f207903b6a4de292f7478a6f66))
+
+# [0.13.0](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.12.0...@iliad-ui/icons-editor@0.13.0) (2022-11-11)
+
+### Features
+
+-   icons update ([497e9f1](https://github.com/gaoding-inc/iliad-ui/commit/497e9f1d958059b1138121a5515334e36cce87e5))
+
+# [0.12.0](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.11.0...@iliad-ui/icons-editor@0.12.0) (2022-11-11)
+
+### Features
+
+-   icons update ([63da3ca](https://github.com/gaoding-inc/iliad-ui/commit/63da3caa7627e746a44b3d7a363d4a11cc21bac6))
+-   icons 更新 ([bb22233](https://github.com/gaoding-inc/iliad-ui/commit/bb22233526b05aff7827b18d5f468eac1f84616c))
+
+# [0.11.0](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.10.0...@iliad-ui/icons-editor@0.11.0) (2022-09-13)
+
+### Features
+
+-   icons 更新 ([f46db89](https://github.com/gaoding-inc/iliad-ui/commit/f46db89695723aaf57b9ae9975ee3f37f35413e1))
+
+# [0.10.0](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.9.2...@iliad-ui/icons-editor@0.10.0) (2022-09-06)
+
+### Features
+
+-   icons 更新 ([80d4883](https://github.com/gaoding-inc/iliad-ui/commit/80d4883e2e901d7210819afdb12a0783fab2c940))
+
+## [0.9.2](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.9.1...@iliad-ui/icons-editor@0.9.2) (2022-08-05)
+
+**Note:** Version bump only for package @iliad-ui/icons-editor
+
 ## [0.9.1](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/icons-editor@0.9.0...@iliad-ui/icons-editor@0.9.1) (2022-07-19)
 
 **Note:** Version bump only for package @iliad-ui/icons-editor

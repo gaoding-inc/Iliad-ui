@@ -18,6 +18,17 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
+// 对svg内容做一些处理
+const handleSvgContent = (content) => {
+    // 去除svg的fill内容
+    const reg = /fill=".+?"/gi;
+    content = content.replace(reg, '');
+    return content;
+};
+const handleSvgFilter = (name, content) => {
+    return name.includes('Static') ? content : handleSvgContent(content);
+};
+
 const processIcon = (srcPath, fd, scaleWidth, scaleHeight) => {
     // get icon name from filename
     const iconName = path.basename(srcPath, path.extname(srcPath));
@@ -34,10 +45,13 @@ const processIcon = (srcPath, fd, scaleWidth, scaleHeight) => {
         return;
     }
     const [, viewBox, svgContent] = match;
-    // append the content to the target file handle
+    // append the content to the target file handle , remove fill info
     fs.writeSync(
         fd,
-        `<symbol id="spectrum-icon-${iconName}" viewBox="${viewBox}">${svgContent}</symbol>`
+        `<symbol id="spectrum-icon-${iconName}" viewBox="${viewBox}">${handleSvgFilter(
+            iconName,
+            svgContent
+        )}</symbol>`
     );
 };
 

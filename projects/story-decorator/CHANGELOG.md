@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.10.8](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.7...@iliad-ui/story-decorator@0.10.8) (2022-12-09)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
+## [0.10.7](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.6...@iliad-ui/story-decorator@0.10.7) (2022-12-09)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
+## [0.10.6](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.5...@iliad-ui/story-decorator@0.10.6) (2022-11-11)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
+## [0.10.5](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.4...@iliad-ui/story-decorator@0.10.5) (2022-11-11)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
+## [0.10.4](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.3...@iliad-ui/story-decorator@0.10.4) (2022-09-13)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
+## [0.10.3](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.2...@iliad-ui/story-decorator@0.10.3) (2022-09-06)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
+## [0.10.2](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.1...@iliad-ui/story-decorator@0.10.2) (2022-08-05)
+
+**Note:** Version bump only for package @iliad-ui/story-decorator
+
 ## [0.10.1](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/story-decorator@0.10.0...@iliad-ui/story-decorator@0.10.1) (2022-07-19)
 
 **Note:** Version bump only for package @iliad-ui/story-decorator

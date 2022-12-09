@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.11](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.10...example-project-webpack@1.6.11) (2022-12-09)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.10](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.9...example-project-webpack@1.6.10) (2022-12-09)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.9](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.8...example-project-webpack@1.6.9) (2022-11-11)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.8](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.7...example-project-webpack@1.6.8) (2022-11-11)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.7](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.6...example-project-webpack@1.6.7) (2022-11-11)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.6](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.5...example-project-webpack@1.6.6) (2022-10-26)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.5](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.4...example-project-webpack@1.6.5) (2022-10-26)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.4](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.3...example-project-webpack@1.6.4) (2022-09-13)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.3](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.2...example-project-webpack@1.6.3) (2022-09-06)
+
+**Note:** Version bump only for package example-project-webpack
+
+## [1.6.2](https://github.com/zzuzsj/iliad-ui/compare/example-project-webpack@1.6.1...example-project-webpack@1.6.2) (2022-08-05)
+
+**Note:** Version bump only for package example-project-webpack
+
 ## [1.6.1](https://github.com/gaoding-inc/Iliad-ui/compare/example-project-webpack@1.6.0...example-project-webpack@1.6.1) (2022-07-19)
 
 **Note:** Version bump only for package example-project-webpack

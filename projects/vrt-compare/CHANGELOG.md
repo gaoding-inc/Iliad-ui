@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.7.8](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.7...@iliad-ui/vrt-compare@0.7.8) (2022-12-09)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
+## [0.7.7](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.6...@iliad-ui/vrt-compare@0.7.7) (2022-12-09)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
+## [0.7.6](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.5...@iliad-ui/vrt-compare@0.7.6) (2022-11-11)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
+## [0.7.5](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.4...@iliad-ui/vrt-compare@0.7.5) (2022-11-11)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
+## [0.7.4](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.3...@iliad-ui/vrt-compare@0.7.4) (2022-09-13)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
+## [0.7.3](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.2...@iliad-ui/vrt-compare@0.7.3) (2022-09-06)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
+## [0.7.2](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.1...@iliad-ui/vrt-compare@0.7.2) (2022-08-05)
+
+**Note:** Version bump only for package @iliad-ui/vrt-compare
+
 ## [0.7.1](https://github.com/gaoding-inc/iliad-ui/compare/@iliad-ui/vrt-compare@0.7.0...@iliad-ui/vrt-compare@0.7.1) (2022-07-19)
 
 **Note:** Version bump only for package @iliad-ui/vrt-compare
